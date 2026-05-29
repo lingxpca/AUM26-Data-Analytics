@@ -1,0 +1,8 @@
+Customer,Region,Purchase_Date,Amount,Satisfaction
+Alice,North,1/5/2024,"""120.5""",5
+Bob,north,1/8/2024,"""85""",4
+Alice,NORTH,Jan 10 2024,"""120.5""",5
+David,South,2/1/2024,"""200""",
+Eva,south,,,3
+ Frank ,East,2/15/2024,"""300.75""",4
+Grace,east,2/18/2024,"""150""",2
