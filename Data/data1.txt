@@ -6,9 +6,9 @@ data = {
         "Helen Adams", "Ian Clark"
     ],
     "Age": [20, 21, np.nan, 22, 23, 23, "twenty", 19, 120, 20],
-    "Gender": ["Female", "male", "M", "F", "Male", "Male", "female", np.nan, "F", "m"],
+    "Gender": ["f", "m", "M", "F", "m", "M", "F", np.nan, "F", "m"],
     "Study_Hours": [5, 8, np.nan, 10, 2, 2, 7, 100, 6, "five"],
-    "Attendance": ["90%", "85%", "missing", "95%", "60%", "60%", np.nan, "100%", "88%", "80%"],
+    "Attendance": ["90%", "85%", np.nan, "95%", "60%", "60%", np.nan, "100%", "88%", "80%"],
     "Exam_Score": [85, 90, 78, np.nan, 65, 65, 88, 95, 200, 72],
-    "Major": ["Math", "math", "Computer Science", "CS", "Business", "Business", "MATH", "", "Computer Sci", np.nan]
+    "Major": ["Math", "math", "Cs", "CS", "Business", "Business", "MATH", "Nursing", "cS", "nursing"]
 }
